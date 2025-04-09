@@ -1,0 +1,11 @@
+browser-use
+langchain-openai
+langchain_aws
+openpyxl
+PyPDF2
+python-dotenv
+playwright
+pydantic
+asyncio
+streamlit
+streamlit-extras
