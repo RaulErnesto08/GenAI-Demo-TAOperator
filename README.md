@@ -33,8 +33,8 @@ Built with **Streamlit**, **LangChain**, **Bedrock Claude**, and the **Browser-U
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/EncoraDigital/COE-GenAI-Demo-TAOperator.git
-cd LinkedIn-Candidate-Finder
+git clone https://github.com/RaulErnesto08/GenAI-Demo-TAOperator.git
+cd GenAI-Demo-TAOperator
 ```
 
 ### 2. Set Up Virtual Environment
